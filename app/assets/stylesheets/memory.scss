@@ -1,0 +1,49 @@
+body {
+  background-color: #fff;
+}
+
+h1 {
+  font-size: 89px;
+  font-family: 'Righteous', cursive;
+  color: #8EC700;
+}
+
+.cards {
+  height: 210px;
+  width: 21%;
+  margin: 8px 8px 8px 10px;
+  /*background-color: #337AB7;*/
+  border-radius: 10px;
+  /*background-image: url('200px.png');
+  background-size: 230px 220px;
+  background-position: contain;
+  background-repeat: no-repeat;*/
+  background: green; /* For browsers that do not support gradients */
+  background: -webkit-radial-gradient(circle, green, turquoise, purple); /* Safari */
+  background: -o-radial-gradient(circle, green, turquoise, purple); /* Opera 11.6 to 12.0 */
+  background: -moz-radial-gradient(circle, green, turquoise, purple); /* Firefox 3.6 to 15 */
+  background: radial-gradient(circle, green, turquoise, purple); /* Standard syntax */
+
+}
+
+.cards p {
+  color: #111;
+  font-size: 65px;
+  display: none;
+  line-height: 225px;
+}
+
+.row {
+  margin-left: 34px;
+  margin-right: -34px;
+}
+
+.hide {
+  display: none;
+}
+
+
+
+
+
+
